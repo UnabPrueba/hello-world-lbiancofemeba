@@ -1,1 +1,1 @@
-lalalala
+print ('Hello World')
